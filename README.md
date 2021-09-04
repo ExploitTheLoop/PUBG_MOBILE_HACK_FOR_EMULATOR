@@ -1,19 +1,6 @@
 # Pubg Mobile Gameloop ESP Source
 2
-[![GitHub](https://img.shields.io/badge/Author-Amiral%20Router-blue)]()
-3
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fpubg_mobile_memory_hacking_examples)]()
-4
-[![GitHub stars](https://img.shields.io/github/stars/atiksoftware/pubg_mobile_memory_hacking_examples?color=brightgreen)]()
-5
-[![GitHub contributors](https://img.shields.io/github/contributors/atiksoftware/pubg_mobile_memory_hacking_examples?color=brightgreen)]()
-6
-[![GitHub issues](https://img.shields.io/github/issues/atiksoftware/pubg_mobile_memory_hacking_examples?color=blue)]()
-7
 ​
-8
-[<img src="https://nullify.uno/assets/images/discord-button.png" width="330" >](https://discord.gg/qUGDFVgT)
-9
 ​
 10
 `SORRY folks. My previous discord account was closed due to hacking.`
@@ -30,7 +17,7 @@ Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord,
 16
 **[Youtube Video](https://www.youtube.com/watch?v=4KoCf4DoBKQ)**
 17
-[![PUBG ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/pubg_mobile_memory_hacking_examples/master/screens/example_screen.jpg)](https://www.youtube.com/watch?v=4KoCf4DoBKQ)
+[![PUBG ESP EXAMPLE SCREENSHOT](https://images-ext-2.discordapp.net/external/WRVsjduYEZ3sjvaptrWFj3hftvHR5EqP9zXixw8Naxs/https/media.discordapp.net/attachments/769153178876641290/883406826710921247/unknown-6-1.png?width=1249&height=703)}
 18
 ​
 19
